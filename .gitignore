@@ -4,5 +4,8 @@
 /scada-data
 /scada-tag
 /scada-oildata
+scada-oildata-webapp
 /scada-security
 /scada-webapp
+/.settings
+
