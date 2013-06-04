@@ -18,6 +18,7 @@
         <module>scada-oildata</module>
         <module>scada-webapp</module>
         <module>scada-oildata-webapp</module>
+        <module>scada-svg-webapp</module>
     </modules>
 
     <properties>
