@@ -40,6 +40,7 @@
 
         <version.shiro>1.2.1</version.shiro>
         <version.druid>0.2.17</version.druid>
+        <version.fastjson>1.1.32</version.fastjson>
     </properties>
 
     <dependencies>
